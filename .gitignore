@@ -1,0 +1,4 @@
+labs-mongo.yaml
+local*
+venv/**
+.idea/**

@@ -1,0 +1,5 @@
+ALICLOUD_ACCESS_KEY: ""
+ALICLOUD_SECRET_KEY: ""
+Region: "ap-southeast-5"
+MongoID: ""
+BackupType: "Logical"

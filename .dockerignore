@@ -1,0 +1,5 @@
+labs-mongo.yaml
+**/k8s/*
+local*
+venv/**
+.idea/**
